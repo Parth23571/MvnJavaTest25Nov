@@ -15,7 +15,6 @@ public class Hello1Test {
  WebDriver dri=new ChromeDriver();
  dri.get("https://www.google.com");
  
-
 dri.manage().window().maximize();
   }
 }
