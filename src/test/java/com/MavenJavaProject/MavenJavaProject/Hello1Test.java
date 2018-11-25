@@ -16,7 +16,6 @@ public class Hello1Test {
  dri.get("https://www.google.com");
  
 
-
- dri.manage().window().maximize();
+dri.manage().window().maximize();
   }
 }
