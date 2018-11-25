@@ -18,6 +18,7 @@ public class Hello1Test {
  //After Rebasing adding commit
 dri.manage().window().maximize();
 //Maximize Test
+System.out.println("Finally Done");
 
   }
 }
