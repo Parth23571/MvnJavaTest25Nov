@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class Hello1Test {
   @Test
   public void f() {
-	  System.out.println("Hello I m in TestNG1");
+	  System.out.println("Hello I m in GIIT TestNG1");
  
 	  //Testing Purpose Only
 	  
